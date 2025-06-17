@@ -1,0 +1,409 @@
+[
+  {
+    "id": 1,
+    "name": "Pneu été Michelin Primacy 4",
+    "category": "Pneus",
+    "brand": "Michelin",
+    "carBrands": ["Peugeot", "Renault", "Volkswagen"],
+    "price": 89.99,
+    "stock": true,
+    "image": "/images/pneus.png",
+    "description": "Pneu été haut de gamme offrant une excellente adhérence et longévité"
+  },
+  {
+    "id": 2,
+    "name": "Pneu hiver Continental WinterContact",
+    "category": "Pneus",
+    "brand": "Continental",
+    "carBrands": ["BMW", "Audi", "Mercedes"],
+    "price": 95.50,
+    "stock": true,
+    "image": "/images/pneus.png",
+    "description": "Pneu hiver performant pour une sécurité optimale sur routes enneigées"
+  },
+  {
+    "id": 3,
+    "name": "Pneu 4 saisons Goodyear Vector",
+    "category": "Pneus",
+    "brand": "Goodyear",
+    "carBrands": ["Toyota", "Ford", "Opel"],
+    "price": 78.90,
+    "stock": false,
+    "image": "/images/pneus.png",
+    "description": "Pneu toutes saisons polyvalent pour un usage urbain"
+  },
+
+  {
+    "id": 4,
+    "name": "Plaquettes de frein avant",
+    "category": "Freins",
+    "brand": "Brembo",
+    "carBrands": ["Peugeot", "Citroën", "DS"],
+    "price": 45.20,
+    "stock": true,
+    "image": "/images/freins.png",
+    "description": "Plaquettes de frein avant haute performance"
+  },
+  {
+    "id": 5,
+    "name": "Disque de frein",
+    "category": "Freins",
+    "brand": "Bosch",
+    "carBrands": ["Volkswagen", "Seat", "Skoda"],
+    "price": 62.30,
+    "stock": true,
+    "image": "/images/freins.png",
+    "description": "Disque de frein ventilé pour une meilleure dissipation de la chaleur"
+  },
+  {
+    "id": 6,
+    "name": "Kit frein arrière complet",
+    "category": "Freins",
+    "brand": "Ferodo",
+    "carBrands": ["Renault", "Nissan", "Dacia"],
+    "price": 89.99,
+    "stock": false,
+    "image": "/images/freins.png",
+    "description": "Kit complet frein arrière avec plaquettes et disques"
+  },
+
+  {
+    "id": 7,
+    "name": "Batterie 12V 60Ah",
+    "category": "Batterie",
+    "brand": "Varta",
+    "carBrands": ["Peugeot", "Citroën", "Renault"],
+    "price": 89.90,
+    "stock": true,
+    "image": "/images/batterie.png",
+    "description": "Batterie voiture 12V 60Ah 540A, démarrage puissant"
+  },
+  {
+    "id": 8,
+    "name": "Batterie Start-Stop 70Ah",
+    "category": "Batterie",
+    "brand": "Bosch",
+    "carBrands": ["BMW", "Audi", "Mercedes"],
+    "price": 149.90,
+    "stock": true,
+    "image": "/images/batterie.png",
+    "description": "Batterie AGM pour véhicules avec système Start-Stop"
+  },
+  {
+    "id": 9,
+    "name": "Batterie longue durée 75Ah",
+    "category": "Batterie",
+    "brand": "Exide",
+    "carBrands": ["Volkswagen", "Ford", "Opel"],
+    "price": 99.50,
+    "stock": true,
+    "image": "/images/batterie.png",
+    "description": "Batterie renforcée pour une durée de vie prolongée"
+  },
+
+  {
+    "id": 10,
+    "name": "Kit embrayage complet",
+    "category": "Embrayage",
+    "brand": "Valeo",
+    "carBrands": ["Peugeot", "Citroën", "Renault"],
+    "price": 185.99,
+    "stock": true,
+    "image": "/images/embrayage.png",
+    "description": "Kit embrayage complet avec disque, mécanisme et butée"
+  },
+  {
+    "id": 11,
+    "name": "Disque d'embrayage",
+    "category": "Embrayage",
+    "brand": "Luk",
+    "carBrands": ["BMW", "Mercedes", "Audi"],
+    "price": 92.30,
+    "stock": false,
+    "image": "/images/embrayage.png",
+    "description": "Disque d'embrayage haute performance"
+  },
+  {
+    "id": 12,
+    "name": "Butée d'embrayage",
+    "category": "Embrayage",
+    "brand": "Sachs",
+    "carBrands": ["Volkswagen", "Seat", "Skoda"],
+    "price": 45.60,
+    "stock": true,
+    "image": "/images/embrayage.png",
+    "description": "Butée d'embrayage de qualité OEM"
+  },
+
+  {
+    "id": 13,
+    "name": "Amortisseur avant",
+    "category": "Amortissement",
+    "brand": "KYB",
+    "carBrands": ["Toyota", "Honda", "Nissan"],
+    "price": 68.90,
+    "stock": true,
+    "image": "/images/amortissement.png",
+    "description": "Amortisseur avant pour conduite confortable"
+  },
+  {
+    "id": 14,
+    "name": "Kit amortisseur arrière",
+    "category": "Amortissement",
+    "brand": "Monroe",
+    "carBrands": ["Renault", "Peugeot", "Citroën"],
+    "price": 125.40,
+    "stock": true,
+    "image": "/images/amortissement.png",
+    "description": "Kit complet amortisseur arrière avec accessoires"
+  },
+  {
+    "id": 15,
+    "name": "Amortisseur sport",
+    "category": "Amortissement",
+    "brand": "Bilstein",
+    "carBrands": ["BMW", "Audi", "Mercedes"],
+    "price": 145.90,
+    "stock": false,
+    "image": "/images/amortissement.png",
+    "description": "Amortisseur sport pour conduite dynamique"
+  },
+
+  {
+    "id": 16,
+    "name": "Filtre à huile",
+    "category": "Filtre",
+    "brand": "Mann-Filter",
+    "carBrands": ["Volkswagen", "Audi", "Seat"],
+    "price": 12.90,
+    "stock": true,
+    "image": "/images/filtre.png",
+    "description": "Filtre à huile haute qualité"
+  },
+  {
+    "id": 17,
+    "name": "Filtre à air",
+    "category": "Filtre",
+    "brand": "Bosch",
+    "carBrands": ["Renault", "Peugeot", "Citroën"],
+    "price": 18.50,
+    "stock": true,
+    "image": "/images/filtre.png",
+    "description": "Filtre à air pour une meilleure filtration"
+  },
+  {
+    "id": 18,
+    "name": "Filtre habitacle",
+    "category": "Filtre",
+    "brand": "Valeo",
+    "carBrands": ["BMW", "Mercedes", "Opel"],
+    "price": 22.90,
+    "stock": false,
+    "image": "/images/filtre.png",
+    "description": "Filtre d'habitacle anti-allergène"
+  },
+
+  {
+    "id": 19,
+    "name": "Huile moteur 5W30",
+    "category": "Huile et Fluide",
+    "brand": "Total",
+    "carBrands": ["Peugeot", "Citroën", "Renault"],
+    "price": 38.90,
+    "stock": true,
+    "image": "/images/huile.png",
+    "description": "Huile moteur synthèse 5W30 5L"
+  },
+  {
+    "id": 20,
+    "name": "Liquide de frein DOT4",
+    "category": "Huile et Fluide",
+    "brand": "Castrol",
+    "carBrands": ["All"],
+    "price": 9.90,
+    "stock": true,
+    "image": "/images/huile.png",
+    "description": "Liquide de frein DOT4 1L"
+  },
+  {
+    "id": 21,
+    "name": "Liquide refroidissement",
+    "category": "Huile et Fluide",
+    "brand": "Glysantin",
+    "carBrands": ["All"],
+    "price": 14.50,
+    "stock": true,
+    "image": "/images/huile.png",
+    "description": "Liquide de refroidissement universel"
+  },
+
+  {
+    "id": 22,
+    "name": "Pot d'échappement arrière",
+    "category": "Échappement",
+    "brand": "Walker",
+    "carBrands": ["Renault", "Peugeot", "Citroën"],
+    "price": 125.90,
+    "stock": true,
+    "image": "/images/echappement.png",
+    "description": "Pot d'échappement arrière complet"
+  },
+  {
+    "id": 23,
+    "name": "Silencieux central",
+    "category": "Échappement",
+    "brand": "Bosal",
+    "carBrands": ["Volkswagen", "Audi", "Seat"],
+    "price": 89.90,
+    "stock": false,
+    "image": "/images/echappement.png",
+    "description": "Silencieux central pour ligne d'échappement"
+  },
+  {
+    "id": 24,
+    "name": "Collecteur échappement",
+    "category": "Échappement",
+    "brand": "BM Catalysts",
+    "carBrands": ["Ford", "Opel", "Fiat"],
+    "price": 145.50,
+    "stock": true,
+    "image": "/images/echappement.png",
+    "description": "Collecteur d'échappement haute performance"
+  },
+
+  {
+    "id": 25,
+    "name": "Rétroviseur extérieur",
+    "category": "Carrosserie",
+    "brand": "Valeo",
+    "carBrands": ["Peugeot", "Citroën", "Renault"],
+    "price": 65.90,
+    "stock": true,
+    "image": "/images/carrosserie.png",
+    "description": "Rétroviseur extérieur gauche avec verre"
+  },
+  {
+    "id": 26,
+    "name": "Phare avant complet",
+    "category": "Carrosserie",
+    "brand": "Hella",
+    "carBrands": ["Volkswagen", "Audi", "Skoda"],
+    "price": 125.90,
+    "stock": true,
+    "image": "/images/carrosserie.png",
+    "description": "Phare avant complet avec projecteurs"
+  },
+  {
+    "id": 27,
+    "name": "Pare-chocs avant",
+    "category": "Carrosserie",
+    "brand": "Magneti Marelli",
+    "carBrands": ["Fiat", "Alfa Romeo", "Lancia"],
+    "price": 185.90,
+    "stock": false,
+    "image": "/images/carrosserie.png",
+    "description": "Pare-chocs avant peint à peindre"
+  },
+
+  {
+    "id": 28,
+    "name": "Bougie d'allumage",
+    "category": "Moteur",
+    "brand": "NGK",
+    "carBrands": ["All"],
+    "price": 8.90,
+    "stock": true,
+    "image": "/images/moteur.png",
+    "description": "Bougie d'allumage platine longue durée"
+  },
+  {
+    "id": 29,
+    "name": "Courroie accessoire",
+    "category": "Moteur",
+    "brand": "Dayco",
+    "carBrands": ["Renault", "Peugeot", "Citroën"],
+    "price": 32.50,
+    "stock": true,
+    "image": "/images/moteur.png",
+    "description": "Courroie accessoire pour alternateur"
+  },
+  {
+    "id": 30,
+    "name": "Capteur PMH",
+    "category": "Moteur",
+    "brand": "Bosch",
+    "carBrands": ["Volkswagen", "Audi", "Seat"],
+    "price": 45.90,
+    "stock": false,
+    "image": "/images/moteur.png",
+    "description": "Capteur de position point mort haut"
+  },
+
+  {
+    "id": 31,
+    "name": "Bras de suspension",
+    "category": "Suspensions",
+    "brand": "Lemforder",
+    "carBrands": ["BMW", "Mercedes", "Audi"],
+    "price": 68.90,
+    "stock": true,
+    "image": "/images/suspensions.png",
+    "description": "Bras de suspension inférieur"
+  },
+  {
+    "id": 32,
+    "name": "Rotule de direction",
+    "category": "Suspensions",
+    "brand": "TRW",
+    "carBrands": ["Peugeot", "Citroën", "Renault"],
+    "price": 32.90,
+    "stock": true,
+    "image": "/images/suspensions.png",
+    "description": "Rotule de direction haute résistance"
+  },
+  {
+    "id": 33,
+    "name": "Kit triangle suspension",
+    "category": "Suspensions",
+    "brand": "Febi",
+    "carBrands": ["Volkswagen", "Audi", "Skoda"],
+    "price": 95.90,
+    "stock": false,
+    "image": "/images/suspensions.png",
+    "description": "Kit complet triangle de suspension"
+  },
+
+  {
+    "id": 34,
+    "name": "Balai d'essuie-glace",
+    "category": "Autre catégories",
+    "brand": "Valeo",
+    "carBrands": ["All"],
+    "price": 12.90,
+    "stock": true,
+    "image": "/images/accessoires.png",
+    "description": "Balai d'essuie-glace avant 60cm"
+  },
+  {
+    "id": 35,
+    "name": "Kit courroie distribution",
+    "category": "Autre catégories",
+    "brand": "Contitech",
+    "carBrands": ["Peugeot", "Renault", "Ford"],
+    "price": 89.90,
+    "stock": true,
+    "image": "/images/accessoires.png",
+    "description": "Kit complet courroie distribution avec galets"
+  },
+  {
+    "id": 36,
+    "name": "Ampoule H7",
+    "category": "Autre catégories",
+    "brand": "Osram",
+    "carBrands": ["All"],
+    "price": 8.50,
+    "stock": false,
+    "image": "/images/accessoires.png",
+    "description": "Ampoule phare H7 55W"
+  }
+]
